@@ -22,3 +22,7 @@ php intelisinse
 
 metodo pdo base de datos 
  conexion ala base de datos en php
+
+
+escoger un tema de c# wpf entiti framework
+
